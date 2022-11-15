@@ -1,7 +1,12 @@
-.row {
+/* .row {
   display: flex;
   gap: 50px;
   width: 100%;
   flex-wrap: wrap;
   justify-content: center;
 }
+.personaje {
+  background-color: bisque;
+  padding: 10px;
+  border-radius: 10px;
+} */
